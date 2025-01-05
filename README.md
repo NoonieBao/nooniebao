@@ -1,4 +1,7 @@
 ## Hi there 👋
+[![Howard's github stats](https://github-readme-stats.vercel.app/api?username=nooniebao&show_icons=true&theme=algolia)](https://github.com/nooniebao/#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nooniebao&theme=algolia&layout=compact)](https://github.com/nooniebao/#)
+
 
 <!--
 **NoonieBao/nooniebao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
